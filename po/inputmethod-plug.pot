@@ -85,8 +85,7 @@ msgid "Your Input Method Is Not Supported"
 msgstr ""
 
 #: src/Plug.vala:85
-msgid ""
-"The default input method of the system is not configurable in this Plug."
+msgid "The default input method of the system is not configurable in this Plug."
 msgstr ""
 
 #: src/Plug.vala:86
